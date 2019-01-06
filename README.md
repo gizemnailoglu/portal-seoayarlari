@@ -1,0 +1,2 @@
+# seoayarlari
+seo
